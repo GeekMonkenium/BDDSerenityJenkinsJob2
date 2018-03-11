@@ -1,0 +1,1784 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$PROJECT_DIR$/src/test/java/com/studentapp/testbase/TestBase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/resources/feature/student.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/resources/feature/teacher.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/target/site/serenity/results.csv">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/main/java/com/hybris/easyjet/fixture/hybris/helpers/BasketHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/environments/local.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/CheckInTheme/CheckInPassengerEpic/ReceivesAndValidatesCheckInCategory/ReceivesAndValidatesCheckIn.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/CheckInTheme/CheckInPassengerEpic/RequestSeatAutoAllocationCategory/RequestSeatAutoAllocationBasic.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/CreateBookingTheme/CommitBookingEpic/BookingStatusCompleteCategory/BookingStatusCompleteAdvanced.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CheckInTheme/CheckInPassengerEpic/ReceivesAndValidatesCheckInCategory/ReceivesAndValidatesCheckIn.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CheckInTheme/CheckInPassengerEpic/RequestSeatAutoAllocationCategory/RequestSeatAutoAllocationBasic.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CheckInTheme/CheckInPassengerEpic/ReturnsFlightCheckInStatusCategory/ReturnsFlightCheckInStatus.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CheckInTheme/GenerateBoardingPassEpic/GenerateBoardingPassCategory/GenerateBoardingPass.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CheckInTheme/GenerateBoardingPassEpic/RequestBarcodeStringCategory/RequestBarcodeString.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CheckInTheme/GenerateBoardingPassEpic/RequestBoardingPassAdvertsCategory/RequestBoardingPassAdverts.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CheckInTheme/ProvideAPISEpic/ReceiveAndValidateAPISCategory/ReceiveAndValidateAPIS.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CheckInTheme/ProvideAPISEpic/ReturnAPISConfirmationCategory/ReturnAPISConfirmation.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CorporateTheme/CorporateBookingsEpic/SetupAndManagementOfCorporateDealsCategory/NOFeature.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CorporateTheme/SetupAndManagementOfCorporateDealsEpic/CreateDealCategory/CreateDeal.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CorporateTheme/SetupAndManagementOfCorporateDealsEpic/SetupAndManagementOfCorporateDealsCategory/SetupAndManagementOfCorporateDeals.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CorporateTheme/SetupAndManagementOfCorporateDealsEpic/Uncategorized/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/Create booking/Make payment/Return booking payment status/ReturnOtherPayment.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CreateBasketTheme/AddCarEpic/FulfillRequestGetQuoteForCarProductsCategory/FulfillRequestGetQuoteForCarProducts.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CreateBasketTheme/AddFlightEpic/AddChosenFlightToBasketCategory/AddChosenFlightToBasket.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CreateBasketTheme/AddFlightEpic/AddChosenFlightToBasketCategory/AddDirectFlightForAllPassengers.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CreateBasketTheme/AddFlightEpic/AddChosenFlightToBasketCategory/AddIndirectFlight.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CreateBasketTheme/AddFlightEpic/AddChosenFlightToBasketCategory/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CreateBasketTheme/AddFlightEpic/Uncategorized/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CreateBasketTheme/AddHoldItemsEpic/AddChosenHoldItemsToBasketCategory/AddChosenHoldItemsToBasket.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CreateBasketTheme/AddPassengerDetailEpic/AddPassengerDetailsToBookingCategory/AddPassengerDetailsToBookingBasic.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CreateBasketTheme/AddSeatsEpic/AddChosenSeatsToBasketCategory/AddChosenSeatsToBasket.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CreateBasketTheme/AddSeatsEpic/Uncategorized/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CreateBasketTheme/ApplyPriceOverrideAndPromotionsEpic/ApplyPromotionsCategory/ApplyPromotions.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CreateBasketTheme/ApplyPriceOverrideAndPromotionsEpic/Uncategorized/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CreateBasketTheme/CommitUpdateBookingEpic/ReturnAmendedBookingConfirmationChannelCategory/ReturnAmendedBookingConfirmationChannel.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CreateBasketTheme/RemoveHoldItemsEpic/RemoveChosenHoldItemFromBasketCategory/RemoveChosenHoldItemFromBasket.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CreateBasketTheme/RemoveSeatsEpic/DeAllocateChosenSeatFromPassengerCategory/DeAllocateChosenSeatFromPassenger.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CreateBasketTheme/SaveAbandonedBasketEpic/FulfillSaveAbandonedBasketCategory/FulfillSaveAbandonedBasket.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CreateBasketTheme/SaveAbandonedBasketEpic/SaveAbandonedBasketCategory/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CreateBasketTheme/SaveAbandonedBasketEpic/SaveAbandonedBasketDigitalOnlyCategory/RetrieveAbandonedBasketDigitalOnly.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CreateBasketTheme/UpdateCurrencyEpic/Uncategorized/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CreateBookingTheme/AddFlightEpic/FlightsOperationalStatusCategory/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CreateBookingTheme/CommitBookingEpic/BookingStatusCompleteCategory/BookingStatusComplete.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CreateBookingTheme/CommitBookingEpic/BookingStatusCompleteCategory/BookingStatusCompleteBasic.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CreateBookingTheme/CommitBookingEpic/ReturnBookingConfirmationCategory/ReturnBookingConfirmation.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CreateBookingTheme/CommitBookingEpic/SendBookingConfirmationEmailCustomerCategory/GenerateBookingConfirmationEmailCustomer.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CreateBookingTheme/CommitBookingEpic/SendBookingConfirmationEmailCustomerCategory/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CreateBookingTheme/CommitBookingEpic/SendsBookingConfirmationThirdPartyCategory/SendsBookingConfirmationThirdParty.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CreateBookingTheme/CommitBookingEpic/SendsStandbyConfirmationEmailCategory/SendsStandbyConfirmationEmail.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CreateBookingTheme/CommitBookingEpic/Uncategorized/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CreateBookingTheme/CommitBookingEpic/ValidateProfileRequestCategory/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CreateBookingTheme/MakePaymentEpic/FlightOperationalStatusCategory/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CreateBookingTheme/MakePaymentEpic/FulfillRequestPaymentCategory/FulfillRequestPaymentAdvance.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CreateBookingTheme/MakePaymentEpic/RepriceBasketCategory/CommitBookingCorporate.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CreateBookingTheme/MakePaymentEpic/RepriceBasketCategory/RepriceBasket.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CreateBookingTheme/MakePaymentEpic/ReturnBookingPaymentCategory/ReturnBookingPaymentAdvanced.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CreateBookingTheme/MakePaymentEpic/Uncategorized/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CreateBookingTheme/UpdateFraudEpic/ReturnBookingConfirmationCategory/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CreateManageCustomerTheme/CreateCustomerEpic/CreateCustomerProfileCategory/CreateCustomerProfile.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CreateManageCustomerTheme/CreateCustomerEpic/ProvideInputReferenceDataCategory/ProvideInputReferenceData.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CreateManageCustomerTheme/CreateCustomerEpic/ValidateProfileRequestCategory/ValidateProfileRequest.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CreateManageCustomerTheme/ManageCustomerProfileDataEpic/ManageCustomerProfileCategory/UpdateEmployeeUserGroup.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CreateManageCustomerTheme/ManageCustomerProfileDataEpic/RequestUpdateToCustomerProfileCategory/RequestUpdateToCustomerProfile.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CreateManageCustomerTheme/ManageCustomerProfileDataEpic/Uncategorized/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CreateManageCustomerTheme/ManageRegisteredInterestsEpic/ReceiveRegisterInterestRequestCategory/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CreateManageCustomerTheme/ManageSavedPaymentMethodsEpic/RemovePaymentMethodCategory/RemovePaymentMethod.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CreateManageCustomerTheme/ManageSavedPaymentMethodsEpic/SavePaymentMethodCategory/SavePaymentMethod.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CreateManageCustomerTheme/ManageSavedPaymentMethodsEpic/UpdateDefaultPaymentMethodCategory/UpdateDefaultPaymentMethod.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CreateManageCustomerTheme/PasswordResetEpic/SendPasswordResetEmailCategory/SendPasswordResetEmail.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CreateManageCustomerTheme/PasswordResetEpic/Uncategorized/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CreateManageCustomerTheme/PasswordResetEpic/ValidatePasswordRequestCategory/ValidatePasswordRequest.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CreateManageCustomerTheme/RetrieveACustomerProfileEpic/DeactivateAccountCategory/DeactivateAccount.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CreateManageCustomerTheme/RetrieveACustomerProfileEpic/RetrieveACustomerCategory/RetrieveACustomer.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CreateManageCustomerTheme/RetrieveACustomerProfileEpic/ValidateRetrieveCustomerCategory/ValidateRetrieveCustomer.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CreateManageCustomerTheme/RetrieveCustomerEpic/Uncategorized/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/CreateManageCustomerTheme/SearchForCustomerEpic/RetrieveMatchingCustomerCategory/RequestSearchForCustomer.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/DataReportingTheme/DataReportingEpic/SendsTheInventoryLidNotificationsCategory/SendsTheInventoryLidNotifications.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/DataReportingTheme/DataReportingEpic/SharesTheDataExtractCategory/SharesTheDataExtract.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/DataReportingTheme/DataReportingEpic/Uncategorized/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/DisruptionsTheme/BulkTransferEpic/RetrieveAlternateFlightsCategory/RetrieveAlternateFlights.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/DisruptionsTheme/BulkTransferEpic/RetrievePassengerListCategory/RetrievePassengerList.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/DisruptionsTheme/BulkTransferEpic/TransferPassengersCategory/TransferPassengers.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/DisruptionsTheme/ManageDisruptedFlightsEpic/ReceiveDisruptionUpdatesReceiveSeatingUpdateCategory/ReceiveDisruptionUpdatesReceiveSeatingUpdate.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/DisruptionsTheme/SetDisruptionLevelEpic/ReceiveAddRemoveFlightDisruptionLevelCategory/ReceiveAddRemoveFlightDisruptionLevel.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/FlightSearchTheme/GetFlightsEpic/CalculatePricesAndTaxesCategory/CalculateVAT.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/FlightSearchTheme/GetFlightsEpic/FlightsOperationalStatusCategory/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/FlightSearchTheme/GetFlightsEpic/RetrieveFlightsAndOfferPricesCategory/RetrieveIndirectFlights.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/FlightSearchTheme/GetFlightsEpic/ReturnSearchPodDataCategory/ReturnSearchPodDataForNonStaffCustomers.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/FlightSearchTheme/GetFlightsEpic/SaveSearchesToACustomerProfileCategory/SaveSearchesToACustomerProfile.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/FlightSearchTheme/RegisterFlightInterestEpic/SaveFlightInterestToProfileCategory/SaveFlightInterestToProfile.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/GroupBookingsTheme/GroupBookingsEpic/GenerateGroupQuoteEmailCategory/GenerateGroupQuoteEmail.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/GroupBookingsTheme/GroupBookingsEpic/SendInitialGroupBookingConfirmationEmailCategory/SendInitialGroupBookingConfirmationEmail.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ManageBookingTheme/AmendmentCheckoutEpic/ConfirmChangesCategory/ConfirmChanges.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ManageBookingTheme/AmendmentCheckoutEpic/ConfirmChangesCategory/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ManageBookingTheme/AmendmentCheckoutEpic/RequestRefundCategory/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ManageBookingTheme/AmendmentCheckoutEpic/Uncategorized/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ManageBookingTheme/ChangeFlightAncillariesEpic/AddRemoveAdditionalSeatsCategory/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ManageBookingTheme/ChangeFlightEpic/AddRemoveFlightCategory/AddRemoveFlight.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ManageBookingTheme/ChangeFlightEpic/BasketCalculationChangesCategory/BasketCalculationChanges.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ManageBookingTheme/ChangeFlightEpic/ProvideChangesAndFeesCategory/ProvideChangesAndFees.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ManageBookingTheme/ChangeFlightEpic/ReturnFlightsAndFaresCategory/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ManageBookingTheme/ChangeFlightEpic/ValidateChangeFlightRequestCategory/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ManageBookingTheme/ChangeFlightEpic/ValidateChangeFlightRequestCategory/ValidateChangeFlightRequest.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ManageBookingTheme/ChangePassengerDetailsEpic/AddRemoveInfantCategory/AddRemoveInfant.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ManageBookingTheme/ChangePassengerDetailsEpic/ChangeAgePassengerTypeCategory/ChangeAgePassengerType.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ManageBookingTheme/ChangePassengerDetailsEpic/ValidateChangePassengerNameCategory/ValidateChangePassengerName.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ManageBookingTheme/CommitBookingEpic/SendsBookingConfirmationThirdPartyCategory/SendsBookingConfirmationThirdParty.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ManageBookingTheme/CommitUpdateBookingEpic/BookingStatusUpdatedCategory/BookingStatusUpdated.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ManageBookingTheme/CommitUpdateBookingEpic/SendCancellationtoThirdPartiesCategory/SendCancellationtoThirdParties.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ManageBookingTheme/CommitUpdateBookingEpic/SendEmailToCustomerCategory/SendEmailToCustomer.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ManageBookingTheme/CommitUpdateBookingEpic/SendUpdateBookingConfirmationEJSystemsCategory/SendUpdateBookingConfirmationEJSystems.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ManageBookingTheme/ConvertStandbyToStaffBookingEpic/ConfirmToStaffCustomerCategory/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ManageBookingTheme/ConvertStandbyToStaffBookingEpic/ConvertStandbyToStaffFareCategory/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ManageBookingTheme/CustomerCancelsBookingEpic/CustomerCancelsBookingCategory/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ManageBookingTheme/CustomerCancelsBookingEpic/SendEmailToCustomerCategory/SendEmailToCustomer.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ManageBookingTheme/ExternalBookingUpdatesEpic/ExternalBookingUpdatesToACPCategory/ExternalBookingUpdatesToACP.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ManageBookingTheme/ManageCommentsEpic/AddCommentsCategory/AddExternalComments.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ManageBookingTheme/ManageCommentsEpic/ManageCommentsCategory/AddAgentDesktopComments.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ManageBookingTheme/ManageCustomerProfileDataEpic/Uncategorized/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ManageBookingTheme/RequestDocumentsEpic/ReceiveRequestForDocumentCategory/ReceiveRequestForDocument.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ManageBookingTheme/SearchForBookingEpic/FlightsOperationalStatusCategory/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ManageBookingTheme/SearchForBookingEpic/RetrieveFullBookingDetailsCategory/BaseFrameworkManageBookingPermissions.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ManageBookingTheme/SearchForBookingEpic/RetrieveFullBookingDetailsCategory/BaseFrameworkUserPermission.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ManageBookingTheme/SearchForBookingEpic/RetrieveFullBookingDetailsCategory/LockingTheBooking.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ManageBookingTheme/SearchForBookingEpic/RetrieveFullBookingDetailsCategory/RetrieveFullBookingDetailsAdvance.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ManageBookingTheme/SearchForBookingEpic/RetrieveFullBookingDetailsCategory/RetrieveFullBookingDetailsBasic.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ManageBookingTheme/SearchForBookingEpic/RetrieveMatchingBookingsSummaryInformationCategory/RetrieveMatchingBookingsSummaryInformationV1.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ManageBookingTheme/SearchForBookingEpic/RetrieveMatchingBookingsSummaryInformationCategory/RetrieveMatchingBookingsSummaryInformationV2.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ManageBookingTheme/SearchForVoucherEpic/RetrieveMatchingVouchersSummaryInformationCategory/RetrieveMatchingVouchersSummaryInformation.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ManageBookingTheme/UpdateFraudEpic/BookingCancelledInErrorCategory/BookingCancelledInError.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ManageBookingTheme/UpdateFraudEpic/ProcessFraudCancelMessageCategory/ProcessFraudCancelMessage.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ManageBookingTheme/UpdateFraudEpic/ProcessFraudCancelMessageCategory/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ManageBookingTheme/UpdateFraudEpic/ProcessFraudChargebackFileCategory/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ProductManagementTheme/BundleAndFlightCommercialStatusEpic/Uncategorized/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ProductManagementTheme/BundlesEpic/BundlesCategory/Bundles.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ProductManagementTheme/BundlesEpic/BundlesCategory/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ProductManagementTheme/DisruptionsEpic/DisruptionLevelAndReasonCategory/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ProductManagementTheme/FeesEpic/FeesCategory/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ProductManagementTheme/FlightsEpic/FlightSetUpCategory/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ProductManagementTheme/FlightsEpic/FlightsOperationlStatusCategory/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ProductManagementTheme/FlightsEpic/StandbyStockLevelCategory/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ProductManagementTheme/FlightsEpic/Uncategorized/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ProductManagementTheme/GetFlightsEpic/FlightSearchCategory/FlightSearch.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ProductManagementTheme/ProductTypeEpic/CabinBagsCategory/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ProductManagementTheme/ProductTypeEpic/ProductCategory/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ProductManagementTheme/PromotionsEpic/CreateApromotionCategory/CreateApromotion.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ProductManagementTheme/ReferenceDataAndOtherConfigurationDataEpic/APISStatusCategory/APISStatus.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ProductManagementTheme/ReferenceDataAndOtherConfigurationDataEpic/AdditionalSeatReasonCategory/AdditionalSeatReason.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ProductManagementTheme/ReferenceDataAndOtherConfigurationDataEpic/BulkTransferReasonsCategory/BulkTransferReasonsSetUp.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ProductManagementTheme/ReferenceDataAndOtherConfigurationDataEpic/CountriesCategory/Countries.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ProductManagementTheme/ReferenceDataAndOtherConfigurationDataEpic/CreditFileFundsCategory/CreditFileFunds.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ProductManagementTheme/ReferenceDataAndOtherConfigurationDataEpic/ICTSStatusCategory/ICTSStatusSetUp.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ProductManagementTheme/ReferenceDataAndOtherConfigurationDataEpic/RefundsCategory/PrimaryAndSecondaryReasonCodes.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ProductManagementTheme/ReferenceDataAndOtherConfigurationDataEpic/RefundsCategory/Refund type.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ProductManagementTheme/ReferenceDataAndOtherConfigurationDataEpic/SectorCategory/Sector.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ProductManagementTheme/ReferenceDataAndOtherConfigurationDataEpic/Uncategorized/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ProductManagementTheme/ReferenceDataAndOtherConfigurationDataEpic/UploadOfEasyjetPlusMembershipCategory/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ProductManagementTheme/ReferenceDataAndOtherConfigurationDataEpic/VATRateCategory/VATRate.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ProductManagementTheme/ReferenceDataAndOtherConfigurationDataEpic/VouchersCategory/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ProductManagementTheme/TaxesEpic/FlightCategory/FlightTaxes.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/ProductManagementTheme/Unepiced/Uncategorized/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/SeriesSeatingTheme/ManagePassengerNameListsEpic/ValidatePNLCategory/ValidatePNL.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/Unthemed/Unepiced/Uncategorized/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/UserManagementTheme/MessageOfTheDayEpic/AgentServicesCategory/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/UserManagementTheme/MessageOfTheDayEpic/MessageOfTheDayCategory/MessageOfTheDay.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/automation/UserManagementTheme/SearchForBookingEpic/UserPermissionManagementCategory/UserPermissionManagement.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CheckInTheme/CheckInPassengerEpic/ReceivesAndValidatesCheckInCategory/ReceivesAndValidatesCheckIn.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CheckInTheme/CheckInPassengerEpic/RequestSeatAutoAllocationCategory/RequestSeatAutoAllocationBasic.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CheckInTheme/GenerateBoardingPassEpic/GenerateBoardingPassCategory/GenerateBoardingPass.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CheckInTheme/ProvideAPISEpic/ProvideAPISCategory/ProvideAPIS.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CheckInTheme/ProvideAPISEpic/ReceiveAndValidateAPISCategory/ReceiveAndValidateAPIS.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CheckInTheme/ProvideAPISEpic/RetrieveBookingDetailsForAPISCategory/RetrieveBookingDetailsForAPIS.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CheckInTheme/ProvideAPISEpic/ReturnSavedAndRetrievableLegacyAPISCategory/ReturnSavedAndRetrievableLegacyAPIS.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CorporateTheme/CorporateBookingsEpic/Uncategorized/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CorporateTheme/SetupAndManagementOfCorporateDealsEpic/CreateDealCategory/CreateDeal.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/Create booking/Make payment/Return booking payment status/ReturnOtherPayment.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBasketTheme/AddAndRemoveCabinBagsEpic/AddAndRemoveCabinBagsFromBasketCategory/AddAndRemoveCabinBagsFromBasket.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBasketTheme/AddCarEpic/FulfillRequestAddCarCategory/FulfillRequestAddCar.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBasketTheme/AddCarEpic/FulfillRequestGetQuoteForCarProductsCategory/FulfillRequestGetQuoteForCarProducts.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBasketTheme/AddFlightEpic/AddChosenFlightToBasketCategory/AddChosenFlightToBasket.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBasketTheme/AddFlightEpic/AddChosenFlightToBasketCategory/AddDirectFlightForAllPassengers.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBasketTheme/AddFlightEpic/AddChosenFlightToBasketCategory/AddFlightMixedFares.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBasketTheme/AddFlightEpic/AddChosenFlightToBasketCategory/AddIndirectFlight.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBasketTheme/AddFlightEpic/AddChosenFlightToBasketCategory/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBasketTheme/AddFlightEpic/ChangeFlightsCategory/ChangeFlights.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBasketTheme/AddFlightEpic/ValidatePassengerMixCategory/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBasketTheme/AddHoldItemsEpic/AddChosenHoldItemsToBasketCategory/AddChosenHoldItemsToBasket.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBasketTheme/AddHoldItemsEpic/HoldBagsCategory/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBasketTheme/AddHoldItemsEpic/RetrieveHoldItemsAndPricesCategory/RetrieveHoldItemsAndPrices.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBasketTheme/AddHotelEpic/FulfillRequestAddHotelCategory/FulfillRequestAddHotel.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBasketTheme/AddInsuranceEpic/FulfilRequestAddInsuranceCategory/FulfilRequestAddInsurance.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBasketTheme/AddInsuranceEpic/FulfillRequestGetQuoteForInsuranceProductsCategory/FulfillRequestGetQuoteForInsuranceProducts.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBasketTheme/AddPassengerDetailEpic/AddPassengerDetailCategory/AddPassengerDetail.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBasketTheme/AddPassengerDetailEpic/AddPassengerDetailsToBookingCategory/AddPassengerDetailsToBooking.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBasketTheme/AddPassengerDetailEpic/AddPassengerDetailsToBookingCategory/AddPassengerDetailsToBookingAdvanced.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBasketTheme/AddPassengerDetailEpic/AddPassengerDetailsToBookingCategory/AddPassengerDetailsToBookingBasic.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBasketTheme/AddPassengerDetailEpic/AddPassengerDetailsToBookingCategory/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBasketTheme/AddPassengerDetailEpic/ProvidePassengerDetailsReferenceDataCategory/AddPassengerDetailsToBookingAdvance.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBasketTheme/AddPassengerDetailEpic/ProvidePassengerDetailsReferenceDataCategory/AddPassengerDetailsToBookingBasic.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBasketTheme/AddSeatsEpic/AddChosenSeatsToBasketCategory/AddChosenSeatsToBasket.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBasketTheme/AddSeatsEpic/RetrieveSeatsAndPricesCategory/RetrieveSeatsAndPrices.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBasketTheme/AddSeatsEpic/Uncategorized/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBasketTheme/ApplyPriceOverrideAndPromotionsEpic/ApplyPriceOverrideCategory/ApplyPriceOverride.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBasketTheme/ApplyPriceOverrideAndPromotionsEpic/ApplyPromotionsCategory/ApplyPromotions.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBasketTheme/ApplyPriceOverrideAndPromotionsEpic/ApplyPromotionsCategory/GetReferenceData.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBasketTheme/ApplyPriceOverrideAndPromotionsEpic/Uncategorized/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBasketTheme/ClearBasketEpic/RemoveAllItemsFromTheBasketCategory/RemoveAllItemsFromTheBasket.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBasketTheme/CommitBookingEpic/Uncategorized/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBasketTheme/RemoveCarEpic/FulfillRequestRemoveCarCategory/FulfillRequestRemoveCar.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBasketTheme/RemoveFlightEpic/RemoveChosenFlightFromBasketCategory/RemoveChosenFlightFromBasket.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBasketTheme/RemoveHoldItemsEpic/RemoveChosenHoldItemFromBasketCategory/RemoveChosenHoldItemFromBasket.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBasketTheme/RemoveHotelEpic/FulfillRequestRemoveHotelCategory/FulfillRequestRemoveHotel.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBasketTheme/RemoveSeatsEpic/DeAllocateChosenSeatFromPassengerCategory/DeAllocateChosenSeatFromPassenger.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBasketTheme/RetrieveSavedPassengersEpic/RetrieveSavedPassengersCategory/RetrieveSavedPassengers.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBasketTheme/SaveAbandonedBasketEpic/FulfillSaveAbandonedBasketCategory/FulfillSaveAbandonedBasket.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBasketTheme/SaveAbandonedBasketEpic/SaveAbandonedBasketDigitalOnlyCategory/RetrieveAbandonedBasketDigitalOnly.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBasketTheme/UpdateCurrencyEpic/RetrieveCurrencyOptionsCalculateUpdatedPricesForBasketCategory/RetrieveCurrencyOptionsCalculateUpdatedPricesForBasket.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBasketTheme/UpdateCurrencyEpic/Uncategorized/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBookingTheme/AddSeatsEpic/Uncategorized/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBookingTheme/CommitBookingEpic/BookingCreatedEventCategory/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBookingTheme/CommitBookingEpic/BookingStatusCompleteCategory/BookingStatusComplete.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBookingTheme/CommitBookingEpic/BookingStatusCompleteCategory/BookingStatusCompleteAdvanced.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBookingTheme/CommitBookingEpic/BookingStatusCompleteCategory/CommitBookingCorporate.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBookingTheme/CommitBookingEpic/BookingStatusCompleteCategory/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBookingTheme/CommitBookingEpic/SendsBookingConfirmationThirdPartyCategory/SendsBookingConfirmationThirdParty.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBookingTheme/CommitBookingEpic/Uncategorized/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBookingTheme/CommitBookingEpic/ValidateProfileRequestCategory/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBookingTheme/MakePaymentEpic/FulfillRequestPaymentCategory/FulfillRequestPaymentAdvance.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBookingTheme/MakePaymentEpic/FulfillRequestPaymentCategory/SuccessfulSingleCardPaymentMocked.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBookingTheme/MakePaymentEpic/RepriceBasketCategory/RepriceBasket.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBookingTheme/MakePaymentEpic/ReturnBookingPaymentStatusCategory/ReturnBookingPaymentStatus.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBookingTheme/MakePaymentEpic/ReturnBookingPaymentStatusCategory/ReturnBookingPaymentStatusAdvanced.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBookingTheme/MakePaymentEpic/Uncategorized/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBookingTheme/ShowCustomerSavedPaymentMethodsEpic/ShowCustomerSavedPaymentMethodsCategory/ShowCustomerSavedPaymentMethods.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBookingTheme/ShowPaymentMethodsEpic/ReceivePaymentMethodsRequestCategory/ReceivePaymentMethodsRequest.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateBookingTheme/ShowPaymentMethodsEpic/ReturnPaymentMethodsCategory/ReturnPaymentMethodsAdvanced.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateManageCustomerTheme/CreateCustomerEpic/ProvideInputReferenceDataCategory/ProvideInputReferenceData.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateManageCustomerTheme/CreateCustomerEpic/Uncategorized/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateManageCustomerTheme/CreateCustomerEpic/ValidateProfileRequestCategory/ValidateProfileRequest.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateManageCustomerTheme/CreateCustomerProfileEpic/Uncategorized/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateManageCustomerTheme/GeneratePasswordEpic/GeneratePasswordCategory/GeneratePassword.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateManageCustomerTheme/ManageCustomerProfileDataEpic/RequestUpdateToCustomerProfileCategory/RequestUpdateToCustomerProfile.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateManageCustomerTheme/ManageRecentSearchesEpic/ClearRecentSearchesCategory/ClearRecentSearches.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateManageCustomerTheme/ManageRegisteredInterestsEpic/ReceiveRegisterInterestRequestCategory/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateManageCustomerTheme/ManageSavedPaymentMethodsEpic/RemovePaymentMethodCategory/RemovePaymentMethod.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateManageCustomerTheme/ManageSavedPaymentMethodsEpic/SavePaymentMethodCategory/SavePaymentMethod.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateManageCustomerTheme/ManageSavedPaymentMethodsEpic/UpdateDefaultPaymentMethodCategory/UpdateDefaultPaymentMethod.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateManageCustomerTheme/PasswordResetEpic/SendPasswordResetEmailCategory/SendPasswordResetEmail.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateManageCustomerTheme/PasswordResetEpic/Uncategorized/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateManageCustomerTheme/PasswordResetEpic/ValidatePasswordRequestCategory/ValidatePasswordRequest.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateManageCustomerTheme/RetrieveACustomerProfileEpic/ReceiveLogOutRequestCategory/LogOutOfAccount.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateManageCustomerTheme/RetrieveACustomerProfileEpic/RetrieveACustomerCategory/RetrieveACustomer.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateManageCustomerTheme/RetrieveACustomerProfileEpic/RetrieveACustomerCategory/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateManageCustomerTheme/RetrieveACustomerProfileEpic/Uncategorized/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateManageCustomerTheme/RetrieveACustomerProfileEpic/ValidateRetrieveCustomerCategory/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateManageCustomerTheme/RetrieveACustomerProfileEpic/ValidateRetrieveCustomerCategory/ValidateRetrieveCustomer.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateManageCustomerTheme/RetrieveCustomerEpic/Uncategorized/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateManageCustomerTheme/SearchForCustomerEpic/RetrieveMatchingCustomerCategory/RequestSearchForCustomer.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/CreateManageCustomerTheme/SearchForCustomerEpic/SearchForCustomerEpicCategory/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/DataReportingTheme/DataReportingEpic/EnablesSearchQueriesCategory/EnablesSearchQueries.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/DisruptionsTheme/BulkTransferEpic/RetrieveAlternateFlightsCategory/RetrieveAlternateFlights.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/DisruptionsTheme/BulkTransferEpic/RetrievePassengerListCategory/RetrievePassengerList.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/DisruptionsTheme/BulkTransferEpic/TransferPassengersCategory/TransferPassengers.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/DisruptionsTheme/LockUnlockFlightEpic/ReceiveLockUnlockRequestCategory/LocksUnlocksAFlight.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/FlightSearchTheme/GetFlightsEpic/ADPresentSearchResultsCategory/ADPresentSearchResults.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/FlightSearchTheme/GetFlightsEpic/CalculatePricesCategory/OFTPriceRounding.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/FlightSearchTheme/GetFlightsEpic/FlightsOperationalStatusCategory/RetrieveAbandonedBasket.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/FlightSearchTheme/GetFlightsEpic/FulfilRetrieveFlightsAndOfferPricesCategory/FulfilRetrieveFlightsAndOfferPrices.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/FlightSearchTheme/GetFlightsEpic/IdentifyDealsCategory/RetrieveFlightsWithDeals.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/FlightSearchTheme/GetFlightsEpic/ProvideAlternateAirportOptionsCategory/ProvideAlternateAirportOptions.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/FlightSearchTheme/GetFlightsEpic/RetrieveFlightsAndOfferPricesCategory/RetrieveIndirectFlights.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/FlightSearchTheme/GetFlightsEpic/RetrieveFlightsAndOfferPricesCategory/RetrieveNonStaffCustomerDirectFlights.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/FlightSearchTheme/GetFlightsEpic/RetrieveFlightsAndOfferPricesCategory/RetrieveStaffCustomerDirectFlights.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/FlightSearchTheme/GetFlightsEpic/ReturnSearchPodDataCategory/ReturnSearchPodDataForNonStaffCustomers.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/FlightSearchTheme/GetFlightsEpic/ReturnSearchPodDataCategory/ReturnSearchPodDataForStaffCustomers.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/FlightSearchTheme/GetFlightsEpic/SaveSearchesToACustomerProfileCategory/SaveSearchesToACustomerProfile.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/FlightSearchTheme/GetFlightsEpic/Uncategorized/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/FlightSearchTheme/GetInspireMeSearchEpic/RetrieveInspireMeSearchDataCategory/RetrieveInspireMeSearchData.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/FlightSearchTheme/RegisterFlightInterestEpic/SaveFlightInterestToProfileCategory/SaveFlightInterestToProfile.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/GroupBookingsTheme/GroupBookingsEpic/AddFlightsSeatsRequirementsCategory/AddFlightsSeatsRequirements.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/GroupBookingsTheme/GroupBookingsEpic/CreateBookingRequirementsCategory/CreateBookingRequirements.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/GroupBookingsTheme/GroupBookingsEpic/GenerateGroupQuoteEmailCategory/GenerateGroupQuoteEmail.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/GroupBookingsTheme/GroupBookingsEpic/RetrieveFlightsAndPricesRequirementsCategory/RetrieveFlightsAndPricesRequirements.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ManageBookingTheme/AmendmentCheckoutEpic/ConfirmChangesCategory/ConfirmChanges.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ManageBookingTheme/AmendmentCheckoutEpic/RequestRefundCategory/RequestRefund.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ManageBookingTheme/AmendmentCheckoutEpic/RequestRefundCategory/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ManageBookingTheme/AmendmentCheckoutEpic/ReturnRefundStatusCategory/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ManageBookingTheme/AmendmentCheckoutEpic/Uncategorized/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ManageBookingTheme/ChangeFlightAncillariesEpic/AddHoldItemsCategory/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ManageBookingTheme/ChangeFlightAncillariesEpic/AddPenaltyWeightCategory/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ManageBookingTheme/ChangeFlightAncillariesEpic/AddRemoveAdditionalSeatsCategory/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ManageBookingTheme/ChangeFlightAncillariesEpic/AddSeatUpgradeSeatCategory/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ManageBookingTheme/ChangeFlightEpic/AddRemoveFlightCategory/AddRemoveFlight.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ManageBookingTheme/ChangeFlightEpic/AddRemoveFlightCategory/BasketCalculationChanges.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ManageBookingTheme/ChangeFlightEpic/BasketCalculationChangesCategory/BasketCalculationChanges.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ManageBookingTheme/ChangeFlightEpic/ProvideChangesAndFeesCategory/ProvideChangesAndFees.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ManageBookingTheme/ChangeFlightEpic/RetrieveFlightsAndOfferPricesCategory/RetrieveFlightsAndOfferPricesCorporate.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ManageBookingTheme/ChangeFlightEpic/RetrieveFlightsAndOfferPricesCategory/RetrieveFlightsForChangeFlights.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ManageBookingTheme/ChangeFlightEpic/ReturnFlightsAndFaresCategory/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ManageBookingTheme/ChangeFlightEpic/Uncategorized/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ManageBookingTheme/ChangeFlightEpic/ValidateChangeFlightRequestCategory/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ManageBookingTheme/ChangeFlightEpic/ValidateChangeFlightRequestCategory/ValidateChangeFlightRequest.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ManageBookingTheme/ChangePassengerDetailsEpic/AddRemoveInfantCategory/AddRemoveInfant.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ManageBookingTheme/ChangePassengerDetailsEpic/AddRemoveInfantCategory/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ManageBookingTheme/ChangePassengerDetailsEpic/ChangeAgePassengerTypeCategory/ChangeAgePassengerType.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ManageBookingTheme/ChangePassengerDetailsEpic/ChangeEjPlusCategory/ChangeEjPlus.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ManageBookingTheme/ChangePassengerDetailsEpic/ChangeSSRsCategory/ChangeSSRs.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ManageBookingTheme/ChangePassengerDetailsEpic/ValidateAmendAPISContactDetailsCategory/ValidateAmendAPISContactDetails.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ManageBookingTheme/ChangePassengerDetailsEpic/ValidateChangePassengerNameCategory/ValidateChangePassengerName.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ManageBookingTheme/CommitUpdateBookingEpic/BookingStatusUpdatedCategory/BookingStatusUpdated.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ManageBookingTheme/CommitUpdateBookingEpic/ReturnAmendedBookingConfirmationChannelCategory/ReturnAmendedBookingConfirmationChannel.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ManageBookingTheme/CommitUpdateBookingEpic/SendCancellationtoThirdPartiesCategory/SendCancellationtoThirdParties.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ManageBookingTheme/CommitUpdateBookingEpic/SendUpdateBookingConfirmationEJSystemsCategory/SendUpdateBookingConfirmationEJSystems.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ManageBookingTheme/CommitUpdateBookingEpic/Uncategorized/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ManageBookingTheme/CustomerCancelsBookingEpic/BookingStatusUpdatedCategory/BookingStatusUpdated.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ManageBookingTheme/CustomerCancelsBookingEpic/ConfirmChangesCategory/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ManageBookingTheme/CustomerCancelsBookingEpic/CustomerCancelsBookingCategory/CustomerCancelsBooking.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ManageBookingTheme/CustomerCancelsBookingEpic/CustomerCancelsBookingCategory/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ManageBookingTheme/CustomerCancelsBookingEpic/RequestRefundCategory/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ManageBookingTheme/ManageCommentsEpic/AddCommentsCategory/AddExternalComments.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ManageBookingTheme/ManageCommentsEpic/ManageCommentsCategory/AddAgentDesktopComments.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ManageBookingTheme/ManageCommentsEpic/ManageCommentsCategory/ManageComments.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ManageBookingTheme/ManageCommentsEpic/RemoveCommentsCategory/RemoveComments.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ManageBookingTheme/ManageCommentsEpic/ValidateApplyRemoveCommentCategory/ValidateApplyRemoveComment.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ManageBookingTheme/RequestDocumentsEpic/ReceiveRequestForDocumentCategory/ReceiveRequestForDocument.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ManageBookingTheme/SearchForBookingEpic/ProvideInputReferenceDataCategory/ProvideInputReferenceDataAdvanced.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ManageBookingTheme/SearchForBookingEpic/RetrieveFullBookingDetailsCategory/BaseFrameworkManageBookingPermissions.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ManageBookingTheme/SearchForBookingEpic/RetrieveFullBookingDetailsCategory/LockingTheBooking.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ManageBookingTheme/SearchForBookingEpic/RetrieveFullBookingDetailsCategory/RetrieveFullBookingDetails.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ManageBookingTheme/SearchForBookingEpic/RetrieveFullBookingDetailsCategory/RetrieveFullBookingDetailsAdvance.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ManageBookingTheme/SearchForBookingEpic/RetrieveFullBookingDetailsCategory/RetrieveFullBookingDetailsBasic.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ManageBookingTheme/SearchForBookingEpic/RetrieveMatchingBookingsSummaryInformationCategory/RetrieveMatchingBookingsSummaryInformationV1.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ManageBookingTheme/SearchForBookingEpic/RetrieveMatchingBookingsSummaryInformationCategory/RetrieveMatchingBookingsSummaryInformationV2.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ManageBookingTheme/SearchForBookingEpic/Uncategorized/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ManageBookingTheme/SearchForVoucherEpic/RetrieveMatchingVouchersSummaryInformationCategory/RetrieveMatchingVouchersSummaryInformation.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ManageBookingTheme/SearchForVoucherEpic/UpdateReSendVoucherDetailsCategory/UpdateReSendVoucherDetails.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ManageBookingTheme/Unepiced/Uncategorized/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ManageBookingTheme/UpdateFraudEpic/ProcessFraudCancelMessageCategory/ProcessFraudCancelMessage.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ManageBookingTheme/UpdateFraudEpic/ProcessFraudCancelMessageCategory/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ProductManagementTheme/FeesEpic/FeesCategory/Fees.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ProductManagementTheme/FlightsEpic/FlightsOperationlStatusCategory/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ProductManagementTheme/GetFlightsEpic/FlightSearchCategory/FlightSearch.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ProductManagementTheme/PromotionsEpic/CreateApromotionCategory/CreateApromotion.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ProductManagementTheme/ReferenceDataAndOtherConfigurationDataEpic/FlightsCategory/Flights.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ProductManagementTheme/ReferenceDataAndOtherConfigurationDataEpic/Uncategorized/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/ProductManagementTheme/Unepiced/Uncategorized/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/SeriesSeatingTheme/SeriesSeatingEpic/CreateBasketSeriesSeatingCategory/CreateBasketSeriesSeating.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/SeriesSeatingTheme/SeriesSeatingEpic/GetFlightsSeriesSeatingCategory/GetFlightsSeriesSeating.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/Unthemed/Unepiced/Uncategorized/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/UserManagementTheme/MessageOfTheDayEpic/AgentServicesCategory/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/UserManagementTheme/MessageOfTheDayEpic/MessageOfTheDayCategory/MessageOfTheDay.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/src/test/resources/feature/manual/UserManagementTheme/MessageOfTheDayEpic/Uncategorized/Unfeatured.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/utils/DefectAnalyzer/generate.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/ptr/acp-testframework/utils/DefectAnalyzer/package.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
